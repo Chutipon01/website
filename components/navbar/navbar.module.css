@@ -1,0 +1,21 @@
+.bgDark {
+  background-color: #0e3b65;
+}
+
+.btnWarning {
+  background-color: #ff5e28;
+  border-color: #ff5e28;
+  color: #fff;
+}
+
+.btnWarning:hover {
+  background-color: #de400b;
+  border-color: #de400b;
+  color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  .brand {
+    width: 70%;
+  }
+}
